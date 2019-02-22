@@ -1,1 +1,166 @@
-{}
+{
+  "playlists": [
+    {
+      "id": 1,
+      "requirements": {
+        "query_scope": [
+          "odevent"
+        ]
+      },
+      "name": "Test name",
+      "description": "Test description",
+      "content_tile_to_display": 10,
+      "refresh_rate": 10,
+      "display_format": "posters",
+      "allowed_filters": {
+        "filter_page": "Test filter",
+        "filter_ids": [
+          "browse_movies",
+          "browse_series",
+          "browse_action/adventure"
+        ]
+      },
+      "hero_picture": "43545654765",
+      "tracking_id": "7655346546",
+      "action": {
+        "payload": {
+          "user": "user@user.com",
+          "scope": "test scope",
+          "order": "popular",
+          "payload": {
+            "locations.id": [
+              "5bab5b8b88d72aa33fd1b5a3",
+              "5bab5c4788d72aa33fd1b5a6"
+            ],
+            "topic.type.id": [
+              "57b59110ebb7f910c5969cc9"
+            ],
+            "metadata.iva_rating": "[70 TO 100]",
+            "topic.metadata.release_date": [
+              "[2013 TO *]"
+            ],
+            "metadata.content_rating": [
+              "12",
+              "12A",
+              "15",
+              "18"
+            ],
+            "method": {
+              "args": {},
+              "name": "any"
+            }
+          },
+          "options": {}
+        }
+      }
+    },
+    {
+      "id": 2,
+      "requirements": {
+        "query_scope": [
+          "odevent"
+        ]
+      },
+      "name": "Test name",
+      "description": "Test description",
+      "content_tile_to_display": 10,
+      "refresh_rate": 10,
+      "display_format": "posters",
+      "allowed_filters": {
+        "filter_page": "Test filter",
+        "filter_ids": [
+          "browse_movies",
+          "browse_series",
+          "browse_action/adventure"
+        ]
+      },
+      "hero_picture": "43545654765",
+      "tracking_id": "7655346546",
+      "action": {
+        "payload": {
+          "user": "user@user.com",
+          "scope": "test scope",
+          "order": "popular",
+          "payload": {
+            "locations.id": [
+              "5bab5b8b88d72aa33fd1b5a3",
+              "5bab5c4788d72aa33fd1b5a6"
+            ],
+            "topic.type.id": [
+              "57b59110ebb7f910c5969cc9"
+            ],
+            "metadata.iva_rating": "[70 TO 100]",
+            "topic.metadata.release_date": [
+              "[2013 TO *]"
+            ],
+            "metadata.content_rating": [
+              "12",
+              "12A",
+              "15",
+              "18"
+            ],
+            "method": {
+              "args": {},
+              "name": "any"
+            }
+          },
+          "options": {}
+        }
+      }
+    },
+    {
+      "id": 3,
+      "requirements": {
+        "query_scope": [
+          "odevent"
+        ]
+      },
+      "name": "Test name",
+      "description": "Test description",
+      "content_tile_to_display": 10,
+      "refresh_rate": 10,
+      "display_format": "posters",
+      "allowed_filters": {
+        "filter_page": "Test filter",
+        "filter_ids": [
+          "browse_movies",
+          "browse_series",
+          "browse_action/adventure"
+        ]
+      },
+      "hero_picture": "43545654765",
+      "tracking_id": "7655346546",
+      "action": {
+        "payload": {
+          "user": "user@user.com",
+          "scope": "test scope",
+          "order": "popular",
+          "payload": {
+            "locations.id": [
+              "5bab5b8b88d72aa33fd1b5a3",
+              "5bab5c4788d72aa33fd1b5a6"
+            ],
+            "topic.type.id": [
+              "57b59110ebb7f910c5969cc9"
+            ],
+            "metadata.iva_rating": "[70 TO 100]",
+            "topic.metadata.release_date": [
+              "[2013 TO *]"
+            ],
+            "metadata.content_rating": [
+              "12",
+              "12A",
+              "15",
+              "18"
+            ],
+            "method": {
+              "args": {},
+              "name": "any"
+            }
+          },
+          "options": {}
+        }
+      }
+    }
+  ]
+}
