@@ -24,8 +24,8 @@
       "tracking_id": "7655346546",
       "action": {
         "payload": {
-          "user": "user@user.com",
-          "scope": "test scope",
+          "user": "",
+          "scope": "collection",
           "order": "popular",
           "payload": {
             "locations.id": [
@@ -78,8 +78,8 @@
       "tracking_id": "7655346546",
       "action": {
         "payload": {
-          "user": "user@user.com",
-          "scope": "test scope",
+          "user": "",
+          "scope": "collection",
           "order": "popular",
           "payload": {
             "locations.id": [
@@ -132,8 +132,8 @@
       "tracking_id": "7655346546",
       "action": {
         "payload": {
-          "user": "user@user.com",
-          "scope": "test scope",
+          "user": "",
+          "scope": "collection",
           "order": "popular",
           "payload": {
             "locations.id": [
