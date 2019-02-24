@@ -28,27 +28,7 @@
           "scope": "collection",
           "order": "popular",
           "payload": {
-            "locations.id": [
-              "5bab5b8b88d72aa33fd1b5a3",
-              "5bab5c4788d72aa33fd1b5a6"
-            ],
-            "topic.type.id": [
-              "57b59110ebb7f910c5969cc9"
-            ],
-            "metadata.iva_rating": "[70 TO 100]",
-            "topic.metadata.release_date": [
-              "[2013 TO *]"
-            ],
-            "metadata.content_rating": [
-              "12",
-              "12A",
-              "15",
-              "18"
-            ],
-            "method": {
-              "args": {},
-              "name": "any"
-            }
+            "topic.type.id": ["5511abe3ebb7f92600e541bc"]}
           },
           "options": {}
         }
