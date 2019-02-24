@@ -28,7 +28,9 @@
           "scope": "collection",
           "order": "popular",
           "payload": {
-            "topic.type.id": ["5511abe3ebb7f92600e541bc"]
+            "topic.type.id": [
+              "5511abe3ebb7f92600e541bc"
+            ]
           },
           "options": {}
         }
