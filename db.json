@@ -28,8 +28,8 @@
           "scope": "collection",
           "order": "popular",
           "payload": {
-            "topic.type.id": [
-              "5511abe3ebb7f92600e541bc"
+            "locations": [
+              "524a7548f0ca9f60fe402583"
             ]
           },
           "options": {}
@@ -143,6 +143,270 @@
           "options": {}
         }
       }
+    },
+    {
+      "id": 4,
+      "requirements": {
+        "query_scope": [
+          "odevent"
+        ]
+      },
+      "name": "cscsdc dcscscs",
+      "description": "cdscsdc",
+      "content_tile_to_display": 10,
+      "refresh_rate": 10,
+      "display_format": "billboards",
+      "allowed_filters": {
+        "filter_page": "cdscsdc",
+        "filter_ids": [
+          "browse_movies",
+          "browse_series",
+          "browse_action/adventure"
+        ]
+      },
+      "hero_picture": "cdscsd",
+      "tracking_id": "cdscsdcs",
+      "action": {
+        "payload": {
+          "user": "",
+          "scope": "cdscdsc",
+          "order": "recommend",
+          "payload": {
+            "type": "odevent"
+          },
+          "options": {}
+        }
+      }
+    },
+    {
+      "id": 5,
+      "requirements": {
+        "query_scope": [
+          "odevent"
+        ]
+      },
+      "name": "xascdas",
+      "description": "cdscsc",
+      "content_tile_to_display": 10,
+      "refresh_rate": 10,
+      "display_format": "posters",
+      "allowed_filters": {
+        "filter_page": "discs",
+        "filter_ids": [
+          "browse_movies",
+          "browse_series",
+          "browse_action/adventure"
+        ]
+      },
+      "hero_picture": "cddscds",
+      "tracking_id": "cdscdsc",
+      "action": {
+        "payload": {
+          "user": "",
+          "scope": "cscds",
+          "order": "recommend",
+          "payload": {
+            "type": "odevent"
+          },
+          "options": {}
+        }
+      }
+    },
+    {
+      "id": 6,
+      "requirements": {
+        "query_scope": [
+          "odevent",
+          "event"
+        ]
+      },
+      "name": "cdsrdscs",
+      "description": "sdcdscs",
+      "content_tile_to_display": 10,
+      "refresh_rate": 10,
+      "display_format": "billboards",
+      "allowed_filters": {
+        "filter_page": "cdscds",
+        "filter_ids": [
+          "browse_movies",
+          "browse_series",
+          "browse_action/adventure"
+        ]
+      },
+      "hero_picture": "cdscsdcdscd",
+      "tracking_id": "cdscdsc",
+      "action": {
+        "payload": {
+          "user": "",
+          "scope": "cdscdsc",
+          "order": "recommend",
+          "payload": {
+            "type": "odevent"
+          },
+          "options": {}
+        }
+      }
+    },
+    {
+      "id": 7,
+      "requirements": {
+        "query_scope": [
+          "odevent"
+        ]
+      },
+      "name": "xsaxascdcs",
+      "description": "cdscsdcs",
+      "content_tile_to_display": 10,
+      "refresh_rate": 10,
+      "display_format": "billboards",
+      "allowed_filters": {
+        "filter_page": "cdscsdc",
+        "filter_ids": [
+          "browse_movies",
+          "browse_series",
+          "browse_action/adventure"
+        ]
+      },
+      "hero_picture": "cdscdsc",
+      "tracking_id": "dcscsdcs",
+      "action": {
+        "payload": {
+          "user": "",
+          "scope": "dcscsdc",
+          "order": "popular",
+          "payload": {
+            "type": "odevent"
+          },
+          "options": {}
+        }
+      }
+    },
+    {
+      "id": 8,
+      "requirements": {
+        "query_scope": [
+          "odevent"
+        ]
+      },
+      "name": "cdscdsc",
+      "description": "cdscdsc",
+      "content_tile_to_display": 10,
+      "refresh_rate": 10,
+      "display_format": "billboards",
+      "allowed_filters": {
+        "filter_page": "cdscsd",
+        "filter_ids": [
+          "browse_movies",
+          "browse_series",
+          "browse_action/adventure"
+        ]
+      },
+      "hero_picture": "dccddccdscsc",
+      "tracking_id": "cdscsdcs",
+      "action": {
+        "payload": {
+          "user": "",
+          "scope": "cdscsdc",
+          "order": "popular",
+          "payload": {
+            "type": "odevent"
+          },
+          "options": {}
+        }
+      }
+    },
+    {
+      "id": 9,
+      "requirements": {
+        "query_scope": [
+          "odevent"
+        ]
+      },
+      "name": "Test",
+      "description": "discs",
+      "content_tile_to_display": 10,
+      "refresh_rate": 10,
+      "display_format": "billboards",
+      "allowed_filters": {
+        "filter_page": "cdscds",
+        "filter_ids": [
+          "browse_movies",
+          "browse_series",
+          "browse_action/adventure"
+        ]
+      },
+      "hero_picture": "cdscdsc",
+      "tracking_id": "cdscsdcs",
+      "action": {
+        "payload": {
+          "user": "",
+          "scope": "cddcdsc",
+          "order": "recommend",
+          "payload": {
+            "type": "odevent",
+            "variant": "utelly"
+          },
+          "options": {}
+        }
+      }
+    },
+    {
+      "id": 10,
+      "requirements": {
+        "query_scope": [
+          "odevent"
+        ]
+      },
+      "name": "Testing again",
+      "description": "cdscsdcsdcs",
+      "content_tile_to_display": 10,
+      "refresh_rate": 10,
+      "display_format": "posters",
+      "allowed_filters": {
+        "filter_page": "dewedcsc",
+        "filter_ids": [
+          "browse_movies",
+          "browse_series",
+          "browse_comedy"
+        ]
+      },
+      "hero_picture": "cdsdcs",
+      "tracking_id": "43534534",
+      "action": {
+        "payload": {
+          "scope": "collection",
+          "order": "recommend",
+          "payload": {
+            "locations": [
+              "524a7548f0ca9f60fe402583"
+            ]
+          },
+          "options": {
+            "replace_hero_images_on_results": true
+          }
+        }
+      }
+    }
+  ],
+  "pages": [
+    {
+      "id": 1,
+      "name": "Home page",
+      "playlists": [
+        "1",
+        "2",
+        "7",
+        "6",
+        "4",
+        "7"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Offers page",
+      "playlists": [
+        "2"
+      ]
     }
   ]
 }
